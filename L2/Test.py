@@ -52,6 +52,9 @@ from mpl_toolkits.mplot3d import Axes3D
 
 #cacculate z_pca(2d and 3d)
 Z_pca2 = Z.dot(W_2D)
+Z_pca3 = Z.dot(W_3D)
+
+
 
 #plot settings
 colors = ['r', 'b', 'g']
@@ -74,6 +77,12 @@ plt.tight_layout()
 #plot 3D
 plt3 = fig.add_subplot(1,2,2, projection='3d')
 #you should plot a 3D scatter using plt3.scatter here (see Axes3D.scatter in matplotlib)
+for l, c, m in zip(np.unique(Y_load), colors, markers):
+    plt3.scatter(Z_pca3[Y_load==l, 0],
+                Z_pca3[Y_load==l, 1],
+                Z_pca3[Y_load==l, 2],
+                c=c, label=l, marker=m)
+
 
 if not os.path.exists('./output'):
     os.makedirs('./output')
