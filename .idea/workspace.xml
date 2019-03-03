@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c293a87d-dd53-421f-9027-383b6c41492e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/L2/Tutorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3/DecisionTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3/output/fig-tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L3/output/tree.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/L4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/Percetron_and_Adaline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/Tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/.ipynb_checkpoints/Test_Jupyter_Notebook-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/L2/.ipynb_checkpoints/Test_Jupyter_Notebook-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/L2/Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/Test_Jupyter_Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/L2/Test_Jupyter_Notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/output/fig-pca-2-3-z.png" beforeDir="false" afterPath="$PROJECT_DIR$/L2/output/fig-pca-2-3-z.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/Lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/L3/Lab.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +17,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DeapLearning$Test.coverage" NAME="Test Coverage Results" MODIFIED="1551447254577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L2" />
+    <SUITE FILE_PATH="coverage/DeapLearning$L4_1.coverage" NAME="L4_1 Coverage Results" MODIFIED="1551628995220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L4" />
+    <SUITE FILE_PATH="coverage/DeapLearning$Test.coverage" NAME="Test Coverage Results" MODIFIED="1551605595933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L2" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -40,34 +39,96 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L2/Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/L2/Tutorial.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="118" selection-start-line="118" selection-end-line="118" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/L3/output/fig-forest-feature-importances.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L3/DecisionTree.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="203" selection-start-line="203" selection-end-line="205" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L4/Tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+              <folding>
+                <element signature="e#2#46#0" expanded="true" />
+                <element signature="e#83#1372#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Playground.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L4/Regression.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L4/Percetron_and_Adaline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1057">
+              <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
+              <folding>
+                <element signature="e#3#36#0" expanded="true" />
+                <element signature="e#5498#7318#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/metrics/classification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/L4/L4_1.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="470">
-              <caret line="245" selection-start-line="245" selection-end-line="245" />
+              <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
+              <folding>
+                <element signature="e#3#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L3/Lab.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L2/Test_Jupyter_Notebook.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -94,9 +155,17 @@
       <list>
         <option value="$PROJECT_DIR$/L2/.ipynb_checkpoints/Test_Jupyter_Notebook-checkpoint.ipynb" />
         <option value="$PROJECT_DIR$/L2/Test_Jupyter_Notebook.ipynb" />
-        <option value="$PROJECT_DIR$/L3/DecisionTree.py" />
-        <option value="$PROJECT_DIR$/L2/Test.py" />
         <option value="$PROJECT_DIR$/L2/Tutorial.py" />
+        <option value="$PROJECT_DIR$/L3/DecisionTree.py" />
+        <option value="$PROJECT_DIR$/L3/Lab.py" />
+        <option value="$PROJECT_DIR$/Playground.py" />
+        <option value="$PROJECT_DIR$/L2/Test.py" />
+        <option value="$PROJECT_DIR$/L4/Regression.py" />
+        <option value="$PROJECT_DIR$/L3/__init__.py" />
+        <option value="$PROJECT_DIR$/L4/Tools.py" />
+        <option value="$PROJECT_DIR$/L4/__init__.py" />
+        <option value="$PROJECT_DIR$/L4/Percetron_and_Adaline.py" />
+        <option value="$PROJECT_DIR$/L4/L4_1.py" />
       </list>
     </option>
   </component>
@@ -124,13 +193,12 @@
             <path>
               <item name="DeapLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeapLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="L2" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="L3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DeapLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeapLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="L3" type="462c0819:PsiDirectoryNode" />
+              <item name="L4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,7 +211,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/L3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,18 +230,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DecisionTree">
-    <configuration name="DecisionTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.L4_1">
+    <configuration name="L4_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeapLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L3/DecisionTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L4/L4_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Percetron_and_Adaline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeapLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L4/Percetron_and_Adaline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Playground" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeapLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Playground.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,17 +313,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeapLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L2/Tutorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L3/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,10 +356,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DecisionTree" />
-        <item itemvalue="Python.Tutorial" />
-        <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.L4_1" />
+        <item itemvalue="Python.Percetron_and_Adaline" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.Playground" />
         <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
@@ -262,7 +376,7 @@
       <updated>1551344079030</updated>
       <workItem from="1551344080311" duration="6411000" />
       <workItem from="1551444353674" duration="1519000" />
-      <workItem from="1551445955244" duration="1401000" />
+      <workItem from="1551445955244" duration="10334000" />
     </task>
     <task id="LOCAL-00001" summary="create files">
       <created>1551344210074</created>
@@ -306,16 +420,31 @@
       <option name="project" value="LOCAL" />
       <updated>1551349561175</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lab2 tutorial">
+      <created>1551447852034</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1551447852034</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lab2&#10;&#10;Solution:&#10;I use PCA to select most important features">
+      <created>1551448727037</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1551448727038</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9331000" />
+    <option name="totallyTimeSpent" value="18264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818312" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1981402" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -330,12 +459,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.40240964" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.19518073" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32409638" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32409638" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.6167558" visible="true" weight="0.32403433" />
-      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="4" sideWeight="0.38324422" side_tool="true" visible="true" weight="0.32403433" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.6180723" visible="true" weight="0.28683835" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="4" sideWeight="0.3819277" side_tool="true" visible="true" weight="0.28683835" />
       <window_info anchor="right" id="Database" order="5" sideWeight="0.49910873" weight="0.3297568" />
     </layout>
   </component>
@@ -389,16 +518,11 @@
     <MESSAGE value="branch master" />
     <MESSAGE value="branch test" />
     <MESSAGE value="finish lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish lab2" />
+    <MESSAGE value="lab2 tutorial" />
+    <MESSAGE value="lab2&#10;&#10;Solution:&#10;I use PCA to select most important features" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab2&#10;&#10;Solution:&#10;I use PCA to select most important features" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/L2/Test_Jupyter_Notebook.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/L2/.ipynb_checkpoints/Test_Jupyter_Notebook-checkpoint.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -406,30 +530,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L3/DecisionTree.py">
+    <entry file="file://$PROJECT_DIR$/L3/output/fig-forest-feature-importances.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L2/Test_Jupyter_Notebook.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L2/Tutorial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        <state relative-caret-position="124">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/L2/Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        <state relative-caret-position="180">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/tree/export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="401" selection-start-line="401" selection-end-line="401" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L3/DecisionTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="203" selection-start-line="203" selection-end-line="205" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L4/Tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#2#46#0" expanded="true" />
+            <element signature="e#83#1372#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L3/output/fig-forest-feature-importances.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/L4/Regression.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/L2/Tutorial.py">
+    <entry file="file://$PROJECT_DIR$/Playground.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/metrics/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L3/Lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L4/Percetron_and_Adaline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1057">
+          <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
+          <folding>
+            <element signature="e#3#36#0" expanded="true" />
+            <element signature="e#5498#7318#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L4/L4_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
+          <folding>
+            <element signature="e#3#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

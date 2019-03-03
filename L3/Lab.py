@@ -59,3 +59,5 @@ forest.fit(X_train, y_train)
 y_pred = forest.predict(X_test)
 print('Accuracy: %.2f' % accuracy_score(y_test, y_pred))
 print('Accuracy per feature: %.2f' % (accuracy_score(y_test, y_pred)/X.shape[1]))
+
+
