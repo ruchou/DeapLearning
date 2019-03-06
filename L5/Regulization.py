@@ -368,4 +368,4 @@ for d in range(1, 7):
     print('MSE train: %.2f, valid: %.2f, test: %.2f' % (
         mean_squared_error(y_train, y_train_pred),
         mean_squared_error(y_valid, y_valid_pred),
-        mean_squared_error(y_test, y_test_pred))) 
+        mean_squared_error(y_test, y_test_pred)))
