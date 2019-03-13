@@ -2,10 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c293a87d-dd53-421f-9027-383b6c41492e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/L6/LogisticRegression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L6/lab6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/output/fig-adalin-gd-cost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/output/fig-adaline-gd-boundary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/output/fig-adaline-gd-overshoot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/output/fig-adaline-sgd-boundary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/output/fig-adaline-sgd-cost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/output/fig-perceptron-scikit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/output/fig-perceptron2-boundary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/output/fig-perceptron2_errors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/output/fig-dataset-sin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/output/fig-error-curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/output/fig-learning-curve-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/output/fig-learning-curve-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/output/fig-learning-curve-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/output/fig-polyreg-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/output/fig-polyreg-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/output/fig-polyreg-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/output/fig-ridge-decay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L6/output/fig-logistic-regression-boundray-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L6/output/fig-logistic-regression-boundray-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L6/output/fig-logistic-regression-c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L6/output/fig-logistic-regression-confusion-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L6/output/fig-logistic-regression-confusion-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L6/output/fig-logistic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L6/output/fig-roc-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L7/SVM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L7/lab7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L7/output/fig-two-moon-knn-boundray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L7/output/fig-two-moon-logistic-regression-boundray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L7/output/fig-two-moon-perceptron-boundray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L7/output/fig-two-moon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L5/Regulization.py" beforeDir="false" afterPath="$PROJECT_DIR$/L5/Regulization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,13 +63,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/L5/Regulization.py">
+        <entry file="file://$PROJECT_DIR$/L7/SVM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="336" column="23" selection-start-line="336" selection-start-column="23" selection-end-line="336" selection-end-column="23" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/L7/lab7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="72" column="2" lean-forward="true" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
               <folding>
-                <element signature="e#3#22#0" expanded="true" />
+                <element signature="e#4#22#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///anaconda3/lib/python3.6/site-packages/numpy/core/shape_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="181" column="4" selection-start-line="181" selection-start-column="4" selection-end-line="181" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -49,7 +95,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L6/LogisticRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2504">
+            <state relative-caret-position="506">
               <caret line="307" lean-forward="true" selection-start-line="307" selection-end-line="307" />
               <folding>
                 <element signature="e#3#36#0" expanded="true" />
@@ -58,35 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L6/lab6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/metrics/ranking.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="534" column="4" selection-start-line="534" selection-start-column="4" selection-end-line="534" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/L4/Regression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4208">
-              <caret line="350" selection-start-line="350" selection-end-line="350" />
-              <folding>
-                <element signature="e#3#36#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1725">
+              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
             </state>
           </provider>
         </entry>
@@ -95,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/L4/Tools.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="25" />
               <folding>
                 <element signature="e#2#46#0" expanded="true" />
               </folding>
@@ -104,12 +126,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/metrics/classification.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1560">
-              <caret line="122" selection-start-line="122" selection-end-line="122" />
-            </state>
-          </provider>
+        <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/ensemble/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -167,7 +185,6 @@
         <option value="$PROJECT_DIR$/L2/Tutorial.py" />
         <option value="$PROJECT_DIR$/L3/DecisionTree.py" />
         <option value="$PROJECT_DIR$/L3/Lab.py" />
-        <option value="$PROJECT_DIR$/Playground.py" />
         <option value="$PROJECT_DIR$/L2/Test.py" />
         <option value="$PROJECT_DIR$/L3/__init__.py" />
         <option value="$PROJECT_DIR$/L4/Tools.py" />
@@ -179,12 +196,17 @@
         <option value="$PROJECT_DIR$/L5/Regulization.py" />
         <option value="$PROJECT_DIR$/L6/LogisticRegression.py" />
         <option value="$PROJECT_DIR$/L6/lab6.py" />
+        <option value="$PROJECT_DIR$/Playground.py" />
+        <option value="$PROJECT_DIR$/L7/SVM.py" />
+        <option value="$PROJECT_DIR$/L7/lab.py" />
+        <option value="$PROJECT_DIR$/L7/lab7.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -202,7 +224,7 @@
             <path>
               <item name="DeapLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeapLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="L6" type="462c0819:PsiDirectoryNode" />
+              <item name="L7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,33 +255,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lab6">
-    <configuration name="L4_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.lab7">
+    <configuration name="LogisticRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeapLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L4/L4_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LogisticRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DeapLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L6" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -275,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Playground" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeapLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,12 +286,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L4/Regression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Playground.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,20 +300,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Regulization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeapLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L5/Regulization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L7/SVM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,6 +345,9 @@
       <module name="DeapLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L6" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -360,13 +363,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lab7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeapLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L7/lab7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab7" />
+        <item itemvalue="Python.SVM" />
+        <item itemvalue="Python.Playground" />
         <item itemvalue="Python.lab6" />
         <item itemvalue="Python.LogisticRegression" />
-        <item itemvalue="Python.Regulization" />
-        <item itemvalue="Python.L4_2" />
-        <item itemvalue="Python.Regression" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +407,10 @@
       <workItem from="1551445955244" duration="11582000" />
       <workItem from="1551682717360" duration="3800000" />
       <workItem from="1551796084620" duration="2203000" />
-      <workItem from="1551876656233" duration="4282000" />
+      <workItem from="1551876656233" duration="6818000" />
+      <workItem from="1552062926262" duration="198000" />
+      <workItem from="1552063224155" duration="816000" />
+      <workItem from="1552480725184" duration="6535000" />
     </task>
     <task id="LOCAL-00001" summary="create files">
       <created>1551344210074</created>
@@ -464,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551798262568</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="L6 Logistic Regression">
+      <created>1551884727337</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1551884727337</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29797000" />
+    <option name="totallyTimeSpent" value="39882000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -483,7 +515,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16094421" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16738197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -498,12 +530,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.40240964" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.19518073" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32409638" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32409638" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.6131907" visible="true" weight="0.28683835" />
-      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="4" sideWeight="0.38680926" side_tool="true" visible="true" weight="0.28683835" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.6060606" visible="true" weight="0.32403433" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="4" sideWeight="0.3939394" side_tool="true" visible="true" weight="0.32403433" />
       <window_info anchor="right" id="Database" order="5" sideWeight="0.49910873" weight="0.3297568" />
     </layout>
   </component>
@@ -562,7 +594,8 @@
     <MESSAGE value="lab4_1&#10;&#10;Solution:&#10;select batcc_size from permutation" />
     <MESSAGE value="lab4_2" />
     <MESSAGE value="Regulization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Regulization" />
+    <MESSAGE value="L6 Logistic Regression" />
+    <option name="LAST_COMMIT_MESSAGE" value="L6 Logistic Regression" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/L2/.ipynb_checkpoints/Test_Jupyter_Notebook-checkpoint.ipynb">
@@ -598,20 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L3/DecisionTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2985">
-          <caret line="203" selection-start-line="203" selection-end-line="205" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Playground.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/L4/L4_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -626,10 +645,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/metrics/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/metrics/ranking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="534" column="4" selection-start-line="534" selection-start-column="4" selection-end-line="534" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playground.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L5/Regulization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="49" />
+          <folding>
+            <element signature="e#3#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L4/Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5205">
+          <caret line="350" selection-start-line="350" selection-end-line="350" />
+          <folding>
+            <element signature="e#3#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/L4/Percetron_and_Adaline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2385">
-          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        <state relative-caret-position="405">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="25" />
           <folding>
             <element signature="e#3#36#0" expanded="true" />
             <element signature="e#5498#7318#0" />
@@ -637,12 +697,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/metrics/classification.py">
+    <entry file="file://$PROJECT_DIR$/L3/DecisionTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        <state relative-caret-position="3705">
+          <caret line="251" column="32" selection-start-line="251" selection-start-column="32" selection-end-line="251" selection-end-column="32" />
         </state>
       </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/ensemble/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/L4/L4_1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -668,46 +731,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L5/Regulization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="336" column="23" selection-start-line="336" selection-start-column="23" selection-end-line="336" selection-end-column="23" />
-          <folding>
-            <element signature="e#3#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/L4/Regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4208">
-          <caret line="350" selection-start-line="350" selection-end-line="350" />
-          <folding>
-            <element signature="e#3#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/L4/Tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="e#2#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///anaconda3/lib/python3.6/site-packages/sklearn/metrics/ranking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="534" column="4" selection-start-line="534" selection-start-column="4" selection-end-line="534" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/L6/LogisticRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2504">
+        <state relative-caret-position="506">
           <caret line="307" lean-forward="true" selection-start-line="307" selection-end-line="307" />
           <folding>
             <element signature="e#3#36#0" expanded="true" />
@@ -717,10 +743,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/L6/lab6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        <state relative-caret-position="1725">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L4/Tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="25" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#2#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.6/site-packages/numpy/core/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="181" column="4" selection-start-line="181" selection-start-column="4" selection-end-line="181" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7/SVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7/lab7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="72" column="2" lean-forward="true" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+          <folding>
+            <element signature="e#4#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
